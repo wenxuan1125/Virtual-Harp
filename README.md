@@ -8,7 +8,7 @@ The application was designed to be simple to use so that as many people as possi
 
 This application was made with MobMuPlat and PureData.  
 
-<img src="https://user-images.githubusercontent.com/63232667/212643487-301ca8b3-261f-4360-8474-681ada9f9712.png" width=70% height=70%>
+<img src="https://user-images.githubusercontent.com/63232667/212643487-301ca8b3-261f-4360-8474-681ada9f9712.png" width=20% height=20%>
 
 Demo link: https://youtu.be/A4AoTOQxWsw
 
